@@ -1,3 +1,11 @@
+@media(max-width:600px){
+    main{
+        width: 100vw;
+        height:auto;
+        border-width:0;
+    }
+}
+
 body{
     padding:0;
     margin:0;
@@ -5,15 +13,15 @@ body{
 main{
     border: 1px solid;
     height: 900px;
-    width:600px;
+    width:500px;
 }
 .p{
     text-align: center;
     
 }
 .s{
-    margin-left:30px;
+    margin-left:5vw;
 }
 .t{
-    margin-left: 15px;
+    margin-left: 5px;
 }
